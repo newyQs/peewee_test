@@ -1,5 +1,7 @@
 http://docs.peewee-orm.com/en/latest/peewee/query_examples.html
 
+![](schema-horizontal.png)
+
 (1) Retrieve everything
 
 Retrieve all information from facilities table.
